@@ -1,0 +1,35 @@
+h1 {
+  color: whitesmoke;
+}
+
+body {
+  background-color: rgb(27, 12, 44, 255);
+}
+
+.title-1 {
+  font-family: cursive;
+  font-size: 30px;
+  text-align: center;
+  margin-top: -40px;
+}
+
+.title-2 {
+  font-family: serif;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: center;
+}
+
+.img {
+  padding: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.w3-bar-item {
+  background-color: black;
+  color: whitesmoke;
+  padding: 10px;
+}
